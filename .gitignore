@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables / API keys
+.env
+.env.*
+*.key
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Uploaded documents
+uploaded_documents/
+
+# Local documents
+documents/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
